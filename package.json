@@ -10,6 +10,10 @@
   },
   "version": "0.1.0",
   "devDependencies": {
+    "release-it": "^15.1.4",
     "webpack-dev-server": "^4.9.3"
+  },
+  "scripts": {
+    "release": "release-it"
   }
 }
