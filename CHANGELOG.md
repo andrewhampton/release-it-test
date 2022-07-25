@@ -1,5 +1,7 @@
 
 
+## [1.0.1](https://github.com/andrewhampton/release-it-test/compare/1.0.0...1.0.1) (2022-07-25)
+
 # [1.0.0](https://github.com/andrewhampton/release-it-test/compare/0.2.0...1.0.0) (2022-07-25)
 
 
