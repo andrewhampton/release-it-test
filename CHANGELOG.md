@@ -1,5 +1,12 @@
 
 
+### [1.0.2](https://github.com/andrewhampton/release-it-test/compare/1.0.1...1.0.2) (2022-07-25)
+
+
+### Bug Fixes
+
+* **ci:** link to linear issues ([675002f](https://github.com/andrewhampton/release-it-test/commit/675002f88e74186ba16882a885eb8eafb135c965)), closes [#5](https://github.com/andrewhampton/release-it-test/issues/5)
+
 ## [1.0.1](https://github.com/andrewhampton/release-it-test/compare/1.0.0...1.0.1) (2022-07-25)
 
 # [1.0.0](https://github.com/andrewhampton/release-it-test/compare/0.2.0...1.0.0) (2022-07-25)
