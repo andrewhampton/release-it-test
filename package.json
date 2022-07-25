@@ -10,6 +10,7 @@
   },
   "version": "0.1.1",
   "devDependencies": {
+    "@release-it/conventional-changelog": "^5.0.0",
     "release-it": "^15.1.4",
     "webpack-dev-server": "^4.9.3"
   },
